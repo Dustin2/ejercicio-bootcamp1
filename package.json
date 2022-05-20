@@ -1,0 +1,19 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "mi primero proyecto de js con nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dustin2/ejercicio-bootcamp1.git"
+  },
+  "author": "dustin2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dustin2/ejercicio-bootcamp1/issues"
+  },
+  "homepage": "https://github.com/Dustin2/ejercicio-bootcamp1#readme"
+}
